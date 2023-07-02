@@ -1,0 +1,5 @@
+// Add some styling to the movieDiv
+        movieDiv.style.border = '1px solid #ccc';
+        movieDiv.style.padding = '10px';
+        movieDiv.style.margin = '10px';
+        movieDiv.style.maxWidth = '300px';
